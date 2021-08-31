@@ -1,0 +1,15 @@
+sprig:
+   cloud:
+    config:
+      enabled: true
+      uri: http://localhost:8888
+
+
+
+    vault:
+      host: localhost
+      port: 8200
+      scheme: http
+      authentication: TOKEN
+      token: s.hECoS4LPXhrISSCX4U2FX8I7
+
